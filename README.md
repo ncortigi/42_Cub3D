@@ -13,6 +13,8 @@ La parte bonus introduce funzionalità extra come collisioni con i muri, minimap
 
 ## 🚀 Come iniziare
 
+È necessario creare una cartella "minilibx-linux" nella root della repository con all'interno scaricata la minilibx.
+
 Per compilare il progetto, usa il Makefile con i seguenti comandi:
 
 - `make all` — Compila il progetto
@@ -69,8 +71,8 @@ C 225,30,0
 
 ## 🎮 Controlli
 
-- Frecce: Ruota la visuale a sinistra/destra
 - W, A, S, D: Muovi il punto di vista
+- Frecce (Dx e Sx): Ruota la visuale a sinistra/destra
 - ESC: Chiudi la finestra ed esci
 - Clic sulla X rossa della finestra: Chiudi la finestra ed esci
 
